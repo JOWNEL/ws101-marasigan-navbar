@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-marasigan-navbar/static/css/main.6e16804f.css",
+    "main.js": "/ws101-marasigan-navbar/static/js/main.459d8544.js",
+    "static/media/3mnrho.jpg": "/ws101-marasigan-navbar/static/media/3mnrho.6a151a397848f58afefa.jpg",
+    "static/media/Disaster-Girl.jpg": "/ws101-marasigan-navbar/static/media/Disaster-Girl.358b3a432354356ba1fd.jpg",
+    "static/media/Liam-Neeson-Taken.jpg": "/ws101-marasigan-navbar/static/media/Liam-Neeson-Taken.d3a4659d4c19d552f2be.jpg",
+    "index.html": "/ws101-marasigan-navbar/index.html",
+    "main.6e16804f.css.map": "/ws101-marasigan-navbar/static/css/main.6e16804f.css.map",
+    "main.459d8544.js.map": "/ws101-marasigan-navbar/static/js/main.459d8544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e16804f.css",
+    "static/js/main.459d8544.js"
+  ]
+}
